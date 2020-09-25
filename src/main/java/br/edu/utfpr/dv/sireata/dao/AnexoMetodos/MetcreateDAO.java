@@ -10,7 +10,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-
 public abstract class MetcreateDAO implements createDAO {
 
     public int salvar(DAOEntity AnexoInterface) throws SQLException {
